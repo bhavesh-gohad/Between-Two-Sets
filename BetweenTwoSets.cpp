@@ -1,10 +1,6 @@
 #include<iostream>
 using namespace std;
 
-//2 3
-//2 4
-//16 32 96
-
 int main() 
 {
     int n, m;
